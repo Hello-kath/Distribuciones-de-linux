@@ -1,0 +1,16 @@
+  /* estilos.css */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: blue;
+}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+}
+
+
