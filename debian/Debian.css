@@ -1,0 +1,126 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+
+*{
+    font-family: "DM Sans", sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+}
+
+/* estilos para el header */
+.header{
+    width: 100%;
+    height: 70px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+    
+}
+
+/* estilos del logo */
+.logo{
+    max-width: 100px;
+    height: auto;
+}
+
+/* estilos del main */
+.main{
+    width: 100%;
+    height: 100%;
+  }
+
+/* estilos para el contenedor1 */
+.container1 {
+    max-width: 100%;
+    height: 100vh;
+    background-color: #d1d1d1;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+  }
+
+  /* estilos para la imagen de la seccion 1 */
+
+  .iconoDebian{
+    max-width: 100%;
+    height: 100%;
+  }
+
+  .imgcirculo{
+    padding: 17%;
+    
+  }
+  /* contenedor de la imagen */
+  .contenedorimagen1{
+    width: 50%;
+    height: 100%;
+    margin: 13px;
+    padding-top: 10%;
+  }
+
+
+  /* estilos del contenedor texto */
+  .texto1{
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 10%;
+  }
+
+/* estilos para el contenedor2 */
+.container2 {
+    max-width: 1000%;
+    height: 100vh;
+    background-color: #e1d5bb;
+    align-items: center;
+   
+  }
+
+  /* estilos para el contenedor del titulo distribucion */
+
+  .distribucion{
+    padding: 2%;
+    padding-bottom: 0%;
+  }
+
+ /* estilos para las card de distribuciones */
+
+ .container3 {
+  max-width: 100%;
+  height: 100vh;
+  display: flex;
+  padding: 5%;
+  padding-top: 0%;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+
+/* estilos para el contenedor4 */
+.container4 {
+  max-width: 100%;
+  height: 100vh;
+  background-color: #d1d1d1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+
+/* estilos para el contenedor5 */
+.container5 {
+  max-width: 100%;
+  height: 100vh;
+  background-color: #e1d5bb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+}
+
