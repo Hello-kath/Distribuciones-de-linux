@@ -1,0 +1,25 @@
+/* estilos.css */
+body {
+    background-image: url('https://hips.hearstapps.com/hmg-prod/images/peaky-blinders-videojuego-1553110703.jpg');
+    background-size: cover; /* Esto ajusta la imagen para cubrir todo el cuerpo */
+    background-position: center; /* Esto centra la imagen */
+    color: rgb(1, 1, 1); /* Esto asegura que el texto sea visible en la imagen de fondo */
+  }
+  
+    
+
+
+
+
+
+
+
+
+footer {
+    background-color: #000; /* Fondo negro */
+    color: #6e0a0a; /* Letra azul oscuro */
+    padding: 20px; /* Espacio interno alrededor del contenido del footer */
+    font-family: Arial, sans-serif; /* Fuente Arial */
+    
+  }
+  
