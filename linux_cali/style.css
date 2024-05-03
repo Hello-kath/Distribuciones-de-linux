@@ -1,0 +1,18 @@
+*{
+ background-color: rgba(226, 237, 215, 0.987);
+}
+
+.sec {
+    display: flex;
+  }
+  
+  .sec>* {
+    margin: 0 10px;
+    flex: 1;
+  }
+.navbar{
+
+}
+.foot{
+       
+}
